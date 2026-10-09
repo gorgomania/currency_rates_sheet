@@ -6,12 +6,12 @@ Google-таблица, которая сама собирает курсы ва�
 
 <p align="center">
   <img src="summary.png" alt="Сводка и график в Google Sheets" width="700"><br>
-  <h3 align="center"> Сводка и график в Google Sheets </h3>
+  <h4 align="center"> Сводка и график в Google Sheets </h3>
 </p>
 
 <p align="center">
   <img src="tg_chat.png" alt="Вечерняя сводка в Telegram" width="700"><br>
-  <h3 align="center"> Вечерняя сводка в Telegram </h3>
+  <h4 align="center"> Вечерняя сводка в Telegram </h3>
 </p>
 
 ## Что умеет
