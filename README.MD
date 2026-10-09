@@ -4,15 +4,15 @@ Google-таблица, которая сама собирает курсы ва�
 
 **Демо-таблица (только просмотр):** https://docs.google.com/spreadsheets/d/1og0iwSwMwmePK_KeOtGtcoMRrQnQVDQ09n1dsVRzK3o/edit?usp=sharing
 
-<p align="center">
-  <img src="summary.png" alt="Сводка и график в Google Sheets" width="700"><br>
+<div align="center">
+  <img src="docs/summary.png" alt="Сводка и график в Google Sheets" width="700"><br>
   <b> Сводка и график в Google Sheets </b>
-</p>
+</div>
 
-<p align="center">
-  <img src="tg_chat.png" alt="Вечерняя сводка в Telegram" width="700"><br>
+<div align="center">
+  <img src="docs/tg_chat.png" alt="Вечерняя сводка в Telegram" width="700"><br>
   <b> Вечерняя сводка в Telegram </b>
-</p>
+</div>
 
 ## Что умеет
 
